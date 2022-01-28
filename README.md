@@ -4,10 +4,10 @@ Tutorial Notebooks on multiple topics in Deep Learning
 
 ### Citation   
 ```
-@article{YourName,
-  title={Your Title},
-  author={Your team},
-  journal={Location},
-  year={Year}
+@article{Arijit Das,
+  title={Research Tutorial Notebooks},
+  author={Arijit Das},
+  journal={https://github.com/das-projects/Research-Notebooks},
+  year={2021}
 }
 ```   
